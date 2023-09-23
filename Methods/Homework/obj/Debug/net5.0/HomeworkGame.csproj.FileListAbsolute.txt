@@ -1,0 +1,16 @@
+C:\Users\gberf\source\repos\Methods\Homework\bin\Debug\net5.0\HomeworkGame.exe
+C:\Users\gberf\source\repos\Methods\Homework\bin\Debug\net5.0\HomeworkGame.deps.json
+C:\Users\gberf\source\repos\Methods\Homework\bin\Debug\net5.0\HomeworkGame.runtimeconfig.json
+C:\Users\gberf\source\repos\Methods\Homework\bin\Debug\net5.0\HomeworkGame.runtimeconfig.dev.json
+C:\Users\gberf\source\repos\Methods\Homework\bin\Debug\net5.0\HomeworkGame.dll
+C:\Users\gberf\source\repos\Methods\Homework\bin\Debug\net5.0\ref\HomeworkGame.dll
+C:\Users\gberf\source\repos\Methods\Homework\bin\Debug\net5.0\HomeworkGame.pdb
+C:\Users\gberf\source\repos\Methods\Homework\obj\Debug\net5.0\HomeworkGame.csproj.AssemblyReference.cache
+C:\Users\gberf\source\repos\Methods\Homework\obj\Debug\net5.0\HomeworkGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gberf\source\repos\Methods\Homework\obj\Debug\net5.0\HomeworkGame.AssemblyInfoInputs.cache
+C:\Users\gberf\source\repos\Methods\Homework\obj\Debug\net5.0\HomeworkGame.AssemblyInfo.cs
+C:\Users\gberf\source\repos\Methods\Homework\obj\Debug\net5.0\HomeworkGame.csproj.CoreCompileInputs.cache
+C:\Users\gberf\source\repos\Methods\Homework\obj\Debug\net5.0\HomeworkGame.dll
+C:\Users\gberf\source\repos\Methods\Homework\obj\Debug\net5.0\ref\HomeworkGame.dll
+C:\Users\gberf\source\repos\Methods\Homework\obj\Debug\net5.0\HomeworkGame.pdb
+C:\Users\gberf\source\repos\Methods\Homework\obj\Debug\net5.0\HomeworkGame.genruntimeconfig.cache

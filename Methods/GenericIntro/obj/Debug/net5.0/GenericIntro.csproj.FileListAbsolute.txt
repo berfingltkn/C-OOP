@@ -1,0 +1,16 @@
+C:\Users\gberf\source\repos\Methods\GenericIntro\bin\Debug\net5.0\GenericIntro.exe
+C:\Users\gberf\source\repos\Methods\GenericIntro\bin\Debug\net5.0\GenericIntro.deps.json
+C:\Users\gberf\source\repos\Methods\GenericIntro\bin\Debug\net5.0\GenericIntro.runtimeconfig.json
+C:\Users\gberf\source\repos\Methods\GenericIntro\bin\Debug\net5.0\GenericIntro.runtimeconfig.dev.json
+C:\Users\gberf\source\repos\Methods\GenericIntro\bin\Debug\net5.0\GenericIntro.dll
+C:\Users\gberf\source\repos\Methods\GenericIntro\bin\Debug\net5.0\ref\GenericIntro.dll
+C:\Users\gberf\source\repos\Methods\GenericIntro\bin\Debug\net5.0\GenericIntro.pdb
+C:\Users\gberf\source\repos\Methods\GenericIntro\obj\Debug\net5.0\GenericIntro.csproj.AssemblyReference.cache
+C:\Users\gberf\source\repos\Methods\GenericIntro\obj\Debug\net5.0\GenericIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gberf\source\repos\Methods\GenericIntro\obj\Debug\net5.0\GenericIntro.AssemblyInfoInputs.cache
+C:\Users\gberf\source\repos\Methods\GenericIntro\obj\Debug\net5.0\GenericIntro.AssemblyInfo.cs
+C:\Users\gberf\source\repos\Methods\GenericIntro\obj\Debug\net5.0\GenericIntro.csproj.CoreCompileInputs.cache
+C:\Users\gberf\source\repos\Methods\GenericIntro\obj\Debug\net5.0\GenericIntro.dll
+C:\Users\gberf\source\repos\Methods\GenericIntro\obj\Debug\net5.0\ref\GenericIntro.dll
+C:\Users\gberf\source\repos\Methods\GenericIntro\obj\Debug\net5.0\GenericIntro.pdb
+C:\Users\gberf\source\repos\Methods\GenericIntro\obj\Debug\net5.0\GenericIntro.genruntimeconfig.cache
